@@ -1,4 +1,0 @@
-Combinations
-============
-```cpp
-if()
